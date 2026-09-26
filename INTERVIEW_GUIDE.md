@@ -41,7 +41,7 @@ delivery model and running in a real, paying clinic every day.
   the incident where a healthy-looking pipeline quietly burned money.
 - **A solo, AI-assisted delivery model.** The engineering system that makes
   it possible — see the companion repo,
-  [ai-engineering-showcase](https://github.com/rustidi98/ai-engineering-showcase).
+  [ai-engineering-showcase](https://github.com/rustidi/ml-portfolio).
 
 ## Five real trade-offs I made (and would defend)
 
